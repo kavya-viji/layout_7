@@ -1,0 +1,268 @@
+.header .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.email .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.icon .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.design .wrapper
+{
+	width:100%;
+	margin:auto;
+}
+.feedback .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.enter .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.logo .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.terms .wrapper
+{
+	width:80%;
+	margin:auto;
+}
+.header
+{
+	background-color:lightgreen;
+    height:100px;	
+}
+.header .header-fc
+{
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .start
+{
+	margin-top:20px;
+    background-color:white;
+    height:60px;	
+    width:40%;	
+}
+.header .header-fc .sign-up
+{
+    margin-top:20px;
+    background-color:white;
+    height:60px;	
+    width:20%;
+}
+.email
+{
+    background-color:khaki;
+    height:368px;
+}
+.email .email-fc
+{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+.email .email-fc .content
+{
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:100%;
+	
+}
+.email .email-fc .address
+{  
+     margin-left:80px;
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:10%;
+}
+.email .email-fc .submit
+{
+	 margin-left:80px;
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:10%;
+}
+.icon
+{
+	 background-color:lightcyan;
+	 height:500px;
+}
+.icon .icon-fc
+{
+     display:flex;
+     justify-content:space-evenly;
+}
+.icon .icon-fc .responsive
+{
+     margin-top:200px;
+	 background-color:cyan;
+     width:10%;
+     height:100px;
+}
+.icon .icon-fc .ready
+{  
+     margin-top:200px;
+	 background-color:white;
+     width:10%;
+     height:100px;
+}
+.icon .icon-fc .use
+{
+     margin-top:200px;
+	 background-color:cyan;
+     width:10%;
+     height:100px;
+}
+ .design
+ {
+	 background-color:coral;
+	 height:1200px;
+ }
+ .design .design-fc
+ {
+	 display:flex;
+	 flex-wrap:wrap;
+	 justify-content:center;
+ }
+.design .design-fc .boxa
+ {	 
+	 background-color:white;
+     width:50%;
+     height:400px;
+ }
+.design .design-fc .boxb
+ {
+ 
+	 background-color:red;
+     width:50%;
+     height:400px;
+ }
+.design .design-fc .boxc
+ {
+	
+	 background-color:red;
+     width:50%;
+     height:400px;
+ } 
+.design .design-fc .boxd
+ {	
+	 background-color:white;
+     width:50%;
+     height:400px;
+ }
+ .design .design-fc .boxe
+ {
+	 background-color:white;
+     width:50%;
+     height:400px;
+ }
+.design .design-fc .boxf
+ {
+	 background-color:red;
+     width:50%;
+     height:400px;
+ }
+ .feedback
+{
+	 background-color:salmon;
+	 height:408px;
+}
+.feedback .feedback-fc
+{
+     display:flex;
+     justify-content:space-evenly;
+}
+.feedback .feedback-fc .pera
+{
+     margin-top:150px;
+	 background-color:cyan;
+     width:10%;
+     height:100px;
+}
+.feedback .feedback-fc .perb
+{  
+     margin-top:150px;
+	 background-color:white;
+     width:10%;
+     height:100px;
+}
+.feedback .feedback-fc .perc
+{
+     margin-top:150px;
+	 background-color:cyan;
+     width:10%;
+     height:100px;
+}
+.enter
+{
+	 background-color:khaki;
+	 height:368px;
+}
+.enter .enter-fc
+{
+     display:flex;
+     flex-wrap:wrap;
+     justify-content:center;
+}
+.enter .enter-fc .text
+{
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:100%;	
+}
+.enter .enter-fc .address
+{  
+     margin-left:80px;
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:10%;
+}
+.enter .enter-fc .submit
+{
+	 margin-left:80px;
+	 margin-top:80px;
+	 background-color:purple;
+	 height:50px;
+	 width:10%;
+}
+.terms
+{
+	 background-color:lightgreen;
+     height:200px;	
+}
+.terms .terms-fc
+{
+	 display:flex;
+	 justify-content:space-between;
+}
+.terms .terms-fc .logo
+{
+     margin-top:50px;
+	 background-color:white;
+     height:100px;	
+     width:20%;	
+}
+.terms .terms-fc .copyright
+{
+	 margin-top:50px;
+	 background-color:white;
+     height:100px;	
+     width:40%;
+}
